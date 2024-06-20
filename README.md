@@ -7,4 +7,4 @@ This Go library converts a string of text into the Military Phonetic Alphabet.
 To install the library, run:
 
 ```bash
-go get github.com/yourusername/phonetic-alphabet
+go get github.com/jonathanfowler954/stringToMilitaryAlphabet
